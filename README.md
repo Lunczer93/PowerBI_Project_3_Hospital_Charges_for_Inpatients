@@ -3,15 +3,20 @@
 INTRODUCTION
 
 The request was submitted to analyze the hospital charges for inpatients in USA by insurance companies.
+
 They would like to gain information if their insurance covers all medical payments. 
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
 
 ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
+
 The calculation of the total cost of discharges of inpatients, total payments, total covered charges and total medicare payments for each entity were performed. 
+
 The ranking of the total cost of discharges of inpatients, total payments, total covered charges and total medicare payments were also demonstrated for each entity.
+
 The quantity of the total payments, covered charges, and medicare payments , which were either greater or lower than the average costs, were also calculated.
+
 
 
 MAIN CONCLUSIONS

@@ -1,13 +1,13 @@
 # PowerBI_Project_3_Hospital_Charges_for_Inpatients
 
-INTRODUCTION
+# INTRODUCTION
 
 The request was submitted to analyze the hospital charges for inpatients in USA by insurance companies.
 
 They would like to gain information if their insurance covers all medical payments for selected states, cities and hospitals. 
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
 
-ANALYSIS
+# ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
 
@@ -21,7 +21,7 @@ The quantity of the total payments, covered charges, and medicare payments , whi
 
 
 
-MAIN CONCLUSIONS
+# MAIN CONCLUSIONS
 
 1.	All insurance companies covered all costs from total payments and medical payments.
 2.	Good Samaritan Hospital generated the greatest total discharges of inpatients (27.592$), total payments and medicare payments (6.961.949$), 
